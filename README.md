@@ -1,6 +1,6 @@
 # Python Tutorial
 
-_(This tutorial is based on Stuart Russell's python tutorial.)_
+**Acknowledgement:** This tutorial is heavily based on Stuart Russell's python tutorial, and is modified for our needs in CSC481/575: Artificial Intelligence.
 
 ## Introduction
 
